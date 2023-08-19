@@ -1,6 +1,6 @@
 0x00. Shell, basics readme
 
-
+  Tasks
 
 0. Where am I?
 
@@ -28,11 +28,11 @@ Display current directory contents.
 
 6. Welcome
 
-Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+Create a script that creates a directory named my first directory in the /tmp/ directory.
 
 7. Betty in my first directory
 
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+Move the file betty from /tmp/ to /tmp/my first directory.
 
 8. Bye bye Betty
 
@@ -40,7 +40,7 @@ Delete the file betty.
 
 9. Bye bye My first directory
 
-Delete the directory my_first_directory that is in the /tmp directory.
+Delete the directory my first directory that is in the /tmp directory.
 
 10. Back to the future
 
@@ -81,5 +81,3 @@ Write a command that lists all the files and directories of the current director
 19. File type: School
 
 Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
-
-
