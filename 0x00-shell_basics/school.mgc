@@ -1,4 +1,2 @@
-# school.mgc
-
-# School data file
-0 string SCHOOL School data
+0 string school  data
+!:mime shcool
